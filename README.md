@@ -10,6 +10,7 @@ If you want to manually build this, you'll need this: https://github.com/Steveic
 If you pass "VERBOSE=1" to make while building, printfs will be enabled which are normally not printed.
 
 Credits:
+
 *Giovanna for the edit
 * 3DSGuy for originally converting the CWAV used by this app's banner, years ago(which seems to be originally from the Wii HBC banner audio?).
 * @Substance12 For the icon/banner(#4).
