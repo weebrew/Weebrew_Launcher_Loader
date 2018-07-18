@@ -36,9 +36,9 @@ INCLUDES	:=	include
 
 VERSION	:=	v1.3
 
-APP_TITLE	:=	hblauncher_loader $(VERSION)
-APP_DESCRIPTION	:=	This boots the *hax payload.
-APP_AUTHOR	:=	yellows8
+APP_TITLE	:=	Weebrew Launcher Loader $(VERSION)
+APP_DESCRIPTION	:=	Weebrew Launcher Loader
+APP_AUTHOR	:=	Giovanna
 
 DEFINES	:=	
 
