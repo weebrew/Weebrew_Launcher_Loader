@@ -34,10 +34,10 @@ DATA		:=	data
 INCLUDES	:=	include
 #ROMFS		:=	romfs
 
-VERSION	:=	v1.3
+VERSION	:=	v1.1
 
-APP_TITLE	:=	Weebrew Launcher Loader $(VERSION)
-APP_DESCRIPTION	:=	Weebrew Launcher Loader
+APP_TITLE	:=	hblauncher_loader $(VERSION)
+APP_DESCRIPTION	:=	Weebrew launcher
 APP_AUTHOR	:=	Giovanna
 
 DEFINES	:=	
