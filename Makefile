@@ -34,7 +34,7 @@ DATA		:=	data
 INCLUDES	:=	include
 #ROMFS		:=	romfs
 
-VERSION	:=	v1.1
+VERSION	:=	v2.0
 
 APP_TITLE	:=	hblauncher_loader $(VERSION)
 APP_DESCRIPTION	:=	Weebrew launcher
